@@ -1,0 +1,30 @@
+Crystal L
+
+=== Diffie Hellman ===
+The shared key should be 52. I found this by first finding out what Alice's secret key is, which can be obtained by solving for the equation g^a % p == 30 (the number Alice sent Bob), where a is Alice's secret key. Plugging in g, p = 7, 61, I found that a = 66 should work through code using a loop using Java:
+
+public static int findPrivateKey(int g, int p, int K) {
+        int k = 0;
+        while(Math.pow(g, k) % p != K) {
+            k++;
+        }
+        return k;
+    }
+
+Using this information, I found the shared key by plugging in p = 61, a = 66, and the number that Bob sent Alice, b = 17, to the equation K = b^a % p. Using simple operations from Python, I found that 17^66 % 61 = 52.
+
+Larger integers would have taken much more time, is more costly and therefore would have been less efficient with a computer.
+
+=== RSA ===
+The message reads as follows:
+
+Hi Bob. I'm walking from now on. Your pal, Alice.
+https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/
+
+First, I found two prime numbers p, q by using the property that p * q = n. I used a program shown in rsa.java to determine which two numbers could multiply to n through factorization, and further narrowing down the options using a function that checks whether a number is prime or not. I saw from here that p = 379 and q = 449. This means (p - 1)(q - 1) = 169,344.
+
+Now, we want to find the private key d by using the equation ed % (p-1)(q-1) == 1, where e = 17; in other words, for what value of d does ed % (p-1)(q-1) = 1? I used brute force in a program to figure out that d = 119,537. This will help figure out the decrypted message by using the formula m = (c^d) % n, where m is the plain text and c is the encrypted text. We are given n = 170,171.
+
+For each number in the encrypted message, I converted it to plain text, then converted that number to ASCII, where each integer in Alice's encrypted message corresponds to two characters in ASCII after being converted to hex.
+
+Large integers could result in possibility that information could be revealed about secret data during the time it takes to process, or other information leaks could happen.
