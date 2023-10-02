@@ -1,0 +1,277 @@
+Crystal L
+
+1. Copy the contents of id_rsa_homework and id_rsa_homework.pub into your file-formats.txt file.
+id_rsa_homework
+-----BEGIN RSA PRIVATE KEY-----
+Proc-Type: 4,ENCRYPTED
+DEK-Info: AES-128-CBC,DCD40F67BFCB9D0E6409A18C8C39D65E
+
++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
+-----END RSA PRIVATE KEY-----
+
+id_rsa_homework.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCi2lKgqF74zfrIvR6owLkjTV0W2Zj4N602WP1HRoidnR1/Yg3OI1J0r6Cwby0w8KR9sLbXC4EXhUGmCi9+uHATXNjJa6NV0Cd95vEvgKi8E5vddrmHO87SLTVTxl1Ymrmp0QvPDfCr7xHvA/QGpMIMEB0d4x4yAEQt5VA5cpvfPoGwAqrAyXmjL8LDHGPR43sP5p8kpuDGSRzAInndXN4JWdFLK0KvvK9tRD9lbn0VvtVk0YZ5Bzf0aHP1v6UrzTMJz+4jmhEofFWaDD7UXoZxqaXb2SJ/rS3ZcjaadYkXmC1uMccxai+j57lg91zgav4vb5dPX2tm7dfHaIs8xkOFwa1KkHIgO/HgHoW2reoRdDI8dGE30dDG4ArqJu+1DWpmghRcbiNFpmzLHtJArCt+heIKXwi3jrSwL49jgxVQKIxnTA3KxMSdGFJY3Sf6W/14NXYN/jwfmcq/Y+NIaJO/nGdozbxqss9GOvXBwltOtRQTo34v0ixu2b8if1L5auE= crystalliu@Crystals-MacBook-Air.local
+
+=== Private Key ===
+3. For your private key file (id_rsa_homework), list the items you expect to be contained in the file.
+- Version
+- Modulus (n)
+- Public exponent (e)
+- Private exponent (d)
+- Prime numbers (p, q)
+- Exponents d mod (p-1) and d mod (q-1)
+- Coefficient (inverse of q mod p)
+- Other prime information
+
+4. Explain briefly the steps you took to decode the private key file.
+In the terminal, I inputted the command
+
+	openssl rsa -in id_rsa_homework -out decrypted
+
+which decrypts id_rsa_homework into a file called decrypted. From here, I opened that file, copied and pasted the contents excluding the header and footer, and pasted them in Michael Holtstrom's ASN.1 decoder.
+
+5. For each integer in your decoded private key file, tell me:
+
+- What is the meaning/name of the integer? This should correspond to one of the items in your answer to the previous question, articulated as an ASN.1 name from the specification in RFC 8017.
+- What is the value of the integer? Write the integer in either decimal or hexadecimal, whichever is more convenient. If hexadecimal, prepend the integer with "0x".
+
+      SEQUENCE {
+         INTEGER 0x00 (0 decimal)	[version]
+         INTEGER 0x00a2da52a0a85ef8cdfac8bd1ea8c0b9234d5d16d998f837ad3658fd4746889d9d1d7f620dce235274afa0b06f2d30f0a47db0b6d70b81178541a60a2f7eb870135cd8c96ba355d0277de6f12f80a8bc139bdd76b9873bced22d3553c65d589ab9a9d10bcf0df0abef11ef03f406a4c20c101d1de31e3200442de55039729bdf3e81b002aac0c979a32fc2c31c63d1e37b0fe69f24a6e0c6491cc02279dd5cde0959d14b2b42afbcaf6d443f656e7d15bed564d186790737f46873f5bfa52bcd3309cfee239a11287c559a0c3ed45e8671a9a5dbd9227fad2dd972369a758917982d6e31c7316a2fa3e7b960f75ce06afe2f6f974f5f6b66edd7c7688b3cc64385c1ad4a9072203bf1e01e85b6adea1174323c746137d1d0c6e00aea26efb50d6a6682145c6e2345a66ccb1ed240ac2b7e85e20a5f08b78eb4b02f8f63831550288c674c0dcac4c49d185258dd27fa5bfd7835760dfe3c1f99cabf63e3486893bf9c6768cdbc6ab2cf463af5c1c25b4eb51413a37e2fd22c6ed9bf227f52f96ae1	[modulus]
+         INTEGER 0x010001 (65537 decimal)	[public exponent]
+         INTEGER 0x102fc71ab4e18bb55d81ea5a4bc7ac1f382752881a4e41aa73c670964f0a713016a87ca486a2b82564f781d1eb19fc313d54fd376eab4c1d30a3424bea3a86d945d73e5df684270665db3889d22df353b7a05196ab3c64983b6a1b8391efa6a161a1a79cd2f3e30306334d9f49b1c29fd45230904c8607c4bf1315e03fe60250822f6e746e691830022547a360c091edbf6cdad097cdaba7c4b5cc3774ab305e9990d5f9dcccfee228e829acf948718ae046ff14709f290e9ffb36a7efd0e4ba4f58dd11b72c2787e01b07075c14c59b9905ac7ec70ebbf4f8218df9ee500c551bdc0c527b43c5b25fd512b08edd008405662681e3a7a3fc5931e890faa7c19a507c10c0536c8b1cbb1d51e20ad570b99598e5d5dc2719e56354753ea0e7f6ebb5a133d4c31600d6fd026adde320327adc4b9babd4242f3d9d5ee4f96185774654cbc94936e3f89e488c7855309e2c444641d7fcf7ed539466dfa998fc586b1bc26c2e94da46b7d71a6f29fb29e529a2bf79b9c708cb6c5c8a33de7033121f61		[private exponent]
+         INTEGER 0x00d2f6d58d731685563469b02765d440cede4ca3ecaca31a36d54ae0e9289d77cea828f9c5289c1eca900209b439b8a9b35d9eacd87ef91e06a2070a00dd1d08b745c1802aee1a7f97bc9e3f96c75eef3a566cda06eb07c325821b9ffa5058bd1585f5786657c8565e03c397b13f788897e8315c4626dba0d05b445f3cf098c8427e06a3053d9a4b1e8ba74d15cc80746b9b3410b7c2ea09ee7916b8b082258ba1fed100ade07e86c244525092b00252a576e0b1dd7ebf1b239f76b9dcfd88b67d	[prime1]
+         INTEGER 0x00c59e3554d382d2c78275cc28ea7cafbb36d2c0bf98efb66cd585f6fff7b80989885e7135381cb4e19d3861a6e5f177867af4d6f8531048e7521dad43457557f6e1892d7ee587e04d00ea441b28099e4b87ed0588846677179c95bde8c8eaaa433fc6cb5bc2758120182c6565c7a9c99bea62a1b356a87878b451ab3a33e5beb0d75a5e7b38c816366d6f326279eb5e3cf46c7077535c5270096c4914840687fda4d22e8c7352a96cbb3ca6fa925fc33c9bafde5741c24ccba346bba209e49f35	[prime2]
+         INTEGER 0x00863e09a02bd6eddbf0183cbea53e8e4ad50c41d76df78fcbcaa80e3c6fdadc0d05d6a5317f68f0f306f63504992257e24a3599595e5ad96f711537995b1a899c4de816cdba9be40b433c13ccb76b42a185b3587dc47b39039a2a47ff79b72e030f2e27824063bc09b12d7a4e90cbfb67669a5a544d8fbe623761679518a8afee17d1d3549761a2617a8e682ff1e4dfb0459fb8efa639553e89911acf3ed1f36b8f01a20402f1a080e806d53cb28197e3b0a4c4a9e46869359ed866e727f221e5	[exponent1]
+         INTEGER 0x00a052ef2f877d7e659008e37e5a6697e749de07b4296e68d0b9163b42850590ef3c6c6a69e3c11e5a5fc3eb2d8d25ae73b2f34a2822b37681fcd3c8ca67e2805ff1afe9f226636aecee0e20fceb298a7bfaa5a7b48ebdd6669889bf8dc8dae11137ff9ee22dcc48daf1e1aacdbd039965ddecf104df0c44d8a06a15815db349568d106ad08b4b8101dd1cb682c028dcc6950218e82600237d73979f5e7e9211e80cbcdc38e422af0360901f63f036b2dd4bed8d73bb0cd862e96f2c3094d81ef5	[exponent2]
+         INTEGER 0x0091cfbf19bf23b1f3fb485816605c5cd9a05340f77b6700eb7ca7b67b6adb0bf5c6e720e1c6654f58782fce83d16752eed79c5a0e8e96e588f7fffda9490b857364896d3b442b4a489c9433131fc0b7fe15dbffb71a3147cc1594659cadc38fe22271752b1ca6db4497c0b5bf738a4162f23797065dcbdc9629246b81b80a2095b00b7f9dc76092c55ae7c1982faeecbdd788d6df42647d1ca6a114bc61c9b6efae1ab58ea77197f9d0402f837357d52a7946026ae5dc1a766e6386244dc84546	[coefficient]
+      }
+
+Which bytes from the decoded base64 data represent this integer? For this, you should specify the starting index (typically known as the "offset") of the integer within the bytes decoded from the base64, and then describe the DER encoding of the integer that you find at that offset.
+
+	- version: offset 4; length 2+1
+02 01 00
+
+	- modulus: offset 7; length 4+385
+02  82 01 81 00 A2 DA 52 A0
+A8 5E F8 CD FA C8 BD 1E  A8 C0 B9 23 4D 5D 16 D9
+98 F8 37 AD 36 58 FD 47  46 88 9D 9D 1D 7F 62 0D
+CE 23 52 74 AF A0 B0 6F  2D 30 F0 A4 7D B0 B6 D7
+0B 81 17 85 41 A6 0A 2F  7E B8 70 13 5C D8 C9 6B
+A3 55 D0 27 7D E6 F1 2F  80 A8 BC 13 9B DD 76 B9
+87 3B CE D2 2D 35 53 C6  5D 58 9A B9 A9 D1 0B CF
+0D F0 AB EF 11 EF 03 F4  06 A4 C2 0C 10 1D 1D E3
+1E 32 00 44 2D E5 50 39  72 9B DF 3E 81 B0 02 AA
+C0 C9 79 A3 2F C2 C3 1C  63 D1 E3 7B 0F E6 9F 24
+A6 E0 C6 49 1C C0 22 79  DD 5C DE 09 59 D1 4B 2B
+42 AF BC AF 6D 44 3F 65  6E 7D 15 BE D5 64 D1 86
+79 07 37 F4 68 73 F5 BF  A5 2B CD 33 09 CF EE 23
+9A 11 28 7C 55 9A 0C 3E  D4 5E 86 71 A9 A5 DB D9
+22 7F AD 2D D9 72 36 9A  75 89 17 98 2D 6E 31 C7
+31 6A 2F A3 E7 B9 60 F7  5C E0 6A FE 2F 6F 97 4F
+5F 6B 66 ED D7 C7 68 8B  3C C6 43 85 C1 AD 4A 90
+72 20 3B F1 E0 1E 85 B6  AD EA 11 74 32 3C 74 61
+37 D1 D0 C6 E0 0A EA 26  EF B5 0D 6A 66 82 14 5C
+6E 23 45 A6 6C CB 1E D2  40 AC 2B 7E 85 E2 0A 5F
+08 B7 8E B4 B0 2F 8F 63  83 15 50 28 8C 67 4C 0D
+CA C4 C4 9D 18 52 58 DD  27 FA 5B FD 78 35 76 0D
+FE 3C 1F 99 CA BF 63 E3  48 68 93 BF 9C 67 68 CD
+BC 6A B2 CF 46 3A F5 C1  C2 5B 4E B5 14 13 A3 7E
+2F D2 2C 6E D9 BF 22 7F  52 F9 6A E1
+
+	- public exponent: offset 396; length 2+3
+02 03 01 00
+01
+
+	- private exponent: offset 401; length 4+384
+02 82 01 80 10 2F C7  1A B4 E1 8B B5 5D 81 EA
+5A 4B C7 AC 1F 38 27 52  88 1A 4E 41 AA 73 C6 70
+96 4F 0A 71 30 16 A8 7C  A4 86 A2 B8 25 64 F7 81
+D1 EB 19 FC 31 3D 54 FD  37 6E AB 4C 1D 30 A3 42
+4B EA 3A 86 D9 45 D7 3E  5D F6 84 27 06 65 DB 38
+89 D2 2D F3 53 B7 A0 51  96 AB 3C 64 98 3B 6A 1B
+83 91 EF A6 A1 61 A1 A7  9C D2 F3 E3 03 06 33 4D
+9F 49 B1 C2 9F D4 52 30  90 4C 86 07 C4 BF 13 15
+E0 3F E6 02 50 82 2F 6E  74 6E 69 18 30 02 25 47
+A3 60 C0 91 ED BF 6C DA  D0 97 CD AB A7 C4 B5 CC
+37 74 AB 30 5E 99 90 D5  F9 DC CC FE E2 28 E8 29
+AC F9 48 71 8A E0 46 FF  14 70 9F 29 0E 9F FB 36
+A7 EF D0 E4 BA 4F 58 DD  11 B7 2C 27 87 E0 1B 07
+07 5C 14 C5 9B 99 05 AC  7E C7 0E BB F4 F8 21 8D
+F9 EE 50 0C 55 1B DC 0C  52 7B 43 C5 B2 5F D5 12
+B0 8E DD 00 84 05 66 26  81 E3 A7 A3 FC 59 31 E8
+90 FA A7 C1 9A 50 7C 10  C0 53 6C 8B 1C BB 1D 51
+E2 0A D5 70 B9 95 98 E5  D5 DC 27 19 E5 63 54 75
+3E A0 E7 F6 EB B5 A1 33  D4 C3 16 00 D6 FD 02 6A
+DD E3 20 32 7A DC 4B 9B  AB D4 24 2F 3D 9D 5E E4
+F9 61 85 77 46 54 CB C9  49 36 E3 F8 9E 48 8C 78
+55 30 9E 2C 44 46 41 D7  FC F7 ED 53 94 66 DF A9
+98 FC 58 6B 1B C2 6C 2E  94 DA 46 B7 D7 1A 6F 29
+FB 29 E5 29 A2 BF 79 B9  C7 08 CB 6C 5C 8A 33 DE
+70 33 12 1F 61
+
+	- prime1: offset 789; length 3+193
+02 81 C1  00 D2 F6 D5 8D 73 16 85
+56 34 69 B0 27 65 D4 40  CE DE 4C A3 EC AC A3 1A
+36 D5 4A E0 E9 28 9D 77  CE A8 28 F9 C5 28 9C 1E
+CA 90 02 09 B4 39 B8 A9  B3 5D 9E AC D8 7E F9 1E
+06 A2 07 0A 00 DD 1D 08  B7 45 C1 80 2A EE 1A 7F
+97 BC 9E 3F 96 C7 5E EF  3A 56 6C DA 06 EB 07 C3
+25 82 1B 9F FA 50 58 BD  15 85 F5 78 66 57 C8 56
+5E 03 C3 97 B1 3F 78 88  97 E8 31 5C 46 26 DB A0
+D0 5B 44 5F 3C F0 98 C8  42 7E 06 A3 05 3D 9A 4B
+1E 8B A7 4D 15 CC 80 74  6B 9B 34 10 B7 C2 EA 09
+EE 79 16 B8 B0 82 25 8B  A1 FE D1 00 AD E0 7E 86
+C2 44 52 50 92 B0 02 52  A5 76 E0 B1 DD 7E BF 1B
+23 9F 76 B9 DC FD 88 B6  7D
+
+	- prime2: offset 985; length 3+193
+02 81 C1 00 C5 9E 35
+54 D3 82 D2 C7 82 75 CC  28 EA 7C AF BB 36 D2 C0
+BF 98 EF B6 6C D5 85 F6  FF F7 B8 09 89 88 5E 71
+35 38 1C B4 E1 9D 38 61  A6 E5 F1 77 86 7A F4 D6
+F8 53 10 48 E7 52 1D AD  43 45 75 57 F6 E1 89 2D
+7E E5 87 E0 4D 00 EA 44  1B 28 09 9E 4B 87 ED 05
+88 84 66 77 17 9C 95 BD  E8 C8 EA AA 43 3F C6 CB
+5B C2 75 81 20 18 2C 65  65 C7 A9 C9 9B EA 62 A1
+B3 56 A8 78 78 B4 51 AB  3A 33 E5 BE B0 D7 5A 5E
+7B 38 C8 16 36 6D 6F 32  62 79 EB 5E 3C F4 6C 70
+77 53 5C 52 70 09 6C 49  14 84 06 87 FD A4 D2 2E
+8C 73 52 A9 6C BB 3C A6  FA 92 5F C3 3C 9B AF DE
+57 41 C2 4C CB A3 46 BB  A2 09 E4 9F 35
+
+	- exponent1: offset 1181; length 3+193
+02 81 C1
+00 86 3E 09 A0 2B D6 ED  DB F0 18 3C BE A5 3E 8E
+4A D5 0C 41 D7 6D F7 8F  CB CA A8 0E 3C 6F DA DC
+0D 05 D6 A5 31 7F 68 F0  F3 06 F6 35 04 99 22 57
+E2 4A 35 99 59 5E 5A D9  6F 71 15 37 99 5B 1A 89
+9C 4D E8 16 CD BA 9B E4  0B 43 3C 13 CC B7 6B 42
+A1 85 B3 58 7D C4 7B 39  03 9A 2A 47 FF 79 B7 2E
+03 0F 2E 27 82 40 63 BC  09 B1 2D 7A 4E 90 CB FB
+67 66 9A 5A 54 4D 8F BE  62 37 61 67 95 18 A8 AF
+EE 17 D1 D3 54 97 61 A2  61 7A 8E 68 2F F1 E4 DF
+B0 45 9F B8 EF A6 39 55  3E 89 91 1A CF 3E D1 F3
+6B 8F 01 A2 04 02 F1 A0  80 E8 06 D5 3C B2 81 97
+E3 B0 A4 C4 A9 E4 68 69  35 9E D8 66 E7 27 F2 21
+E5
+
+	- exponent2: offset 1377; length 3+193
+02 81 C1 00 A0 52 EF  2F 87 7D 7E 65 90 08 E3
+7E 5A 66 97 E7 49 DE 07  B4 29 6E 68 D0 B9 16 3B
+42 85 05 90 EF 3C 6C 6A  69 E3 C1 1E 5A 5F C3 EB
+2D 8D 25 AE 73 B2 F3 4A  28 22 B3 76 81 FC D3 C8
+CA 67 E2 80 5F F1 AF E9  F2 26 63 6A EC EE 0E 20
+FC EB 29 8A 7B FA A5 A7  B4 8E BD D6 66 98 89 BF
+8D C8 DA E1 11 37 FF 9E  E2 2D CC 48 DA F1 E1 AA
+CD BD 03 99 65 DD EC F1  04 DF 0C 44 D8 A0 6A 15
+81 5D B3 49 56 8D 10 6A  D0 8B 4B 81 01 DD 1C B6
+82 C0 28 DC C6 95 02 18  E8 26 00 23 7D 73 97 9F
+5E 7E 92 11 E8 0C BC DC  38 E4 22 AF 03 60 90 1F
+63 F0 36 B2 DD 4B ED 8D  73 BB 0C D8 62 E9 6F 2C
+30 94 D8 1E F5
+
+	- coefficient: offset 1573; length 3+193
+02 81 C1  00 91 CF BF 19 BF 23 B1
+F3 FB 48 58 16 60 5C 5C  D9 A0 53 40 F7 7B 67 00
+EB 7C A7 B6 7B 6A DB 0B  F5 C6 E7 20 E1 C6 65 4F
+58 78 2F CE 83 D1 67 52  EE D7 9C 5A 0E 8E 96 E5
+88 F7 FF FD A9 49 0B 85  73 64 89 6D 3B 44 2B 4A
+48 9C 94 33 13 1F C0 B7  FE 15 DB FF B7 1A 31 47
+CC 15 94 65 9C AD C3 8F  E2 22 71 75 2B 1C A6 DB
+44 97 C0 B5 BF 73 8A 41  62 F2 37 97 06 5D CB DC
+96 29 24 6B 81 B8 0A 20  95 B0 0B 7F 9D C7 60 92
+C5 5A E7 C1 98 2F AE EC  BD D7 88 D6 DF 42 64 7D
+1C A6 A1 14 BC 61 C9 B6  EF AE 1A B5 8E A7 71 97
+F9 D0 40 2F 83 73 57 D5  2A 79 46 02 6A E5 DC 1A
+76 6E 63 86 24 4D C8 45  46
+
+The 0x02 tag denotes INTEGER type
+
+=== Public Key ===
+Do the same things you did for the private key: 
+- write down what you expect to find in id_rsa_homework.pub and why; 
+- explain how you decoded the file; for each integer in the file, provide its name, value, and any other relevant details.
+
+I expect to find the modulus (n) and public exponent (e), as specified in the RSA Public Key Syntax in RFC 8017.
+
+Modulus:
+    00:a2:da:52:a0:a8:5e:f8:cd:fa:c8:bd:1e:a8:c0:
+    b9:23:4d:5d:16:d9:98:f8:37:ad:36:58:fd:47:46:
+    88:9d:9d:1d:7f:62:0d:ce:23:52:74:af:a0:b0:6f:
+    2d:30:f0:a4:7d:b0:b6:d7:0b:81:17:85:41:a6:0a:
+    2f:7e:b8:70:13:5c:d8:c9:6b:a3:55:d0:27:7d:e6:
+    f1:2f:80:a8:bc:13:9b:dd:76:b9:87:3b:ce:d2:2d:
+    35:53:c6:5d:58:9a:b9:a9:d1:0b:cf:0d:f0:ab:ef:
+    11:ef:03:f4:06:a4:c2:0c:10:1d:1d:e3:1e:32:00:
+    44:2d:e5:50:39:72:9b:df:3e:81:b0:02:aa:c0:c9:
+    79:a3:2f:c2:c3:1c:63:d1:e3:7b:0f:e6:9f:24:a6:
+    e0:c6:49:1c:c0:22:79:dd:5c:de:09:59:d1:4b:2b:
+    42:af:bc:af:6d:44:3f:65:6e:7d:15:be:d5:64:d1:
+    86:79:07:37:f4:68:73:f5:bf:a5:2b:cd:33:09:cf:
+    ee:23:9a:11:28:7c:55:9a:0c:3e:d4:5e:86:71:a9:
+    a5:db:d9:22:7f:ad:2d:d9:72:36:9a:75:89:17:98:
+    2d:6e:31:c7:31:6a:2f:a3:e7:b9:60:f7:5c:e0:6a:
+    fe:2f:6f:97:4f:5f:6b:66:ed:d7:c7:68:8b:3c:c6:
+    43:85:c1:ad:4a:90:72:20:3b:f1:e0:1e:85:b6:ad:
+    ea:11:74:32:3c:74:61:37:d1:d0:c6:e0:0a:ea:26:
+    ef:b5:0d:6a:66:82:14:5c:6e:23:45:a6:6c:cb:1e:
+    d2:40:ac:2b:7e:85:e2:0a:5f:08:b7:8e:b4:b0:2f:
+    8f:63:83:15:50:28:8c:67:4c:0d:ca:c4:c4:9d:18:
+    52:58:dd:27:fa:5b:fd:78:35:76:0d:fe:3c:1f:99:
+    ca:bf:63:e3:48:68:93:bf:9c:67:68:cd:bc:6a:b2:
+    cf:46:3a:f5:c1:c2:5b:4e:b5:14:13:a3:7e:2f:d2:
+    2c:6e:d9:bf:22:7f:52:f9:6a:e1
+
+Exponent: 65537 (0x10001), which is a commonly used exponent, as it's a relatively large prime.
+
+I first used the command
+
+	openssl rsa -in id_rsa_homework -pubout
+
+in order to generate public key in PEM format. I put this in a file called public.pem, then inputted the command
+
+	openssl rsa -in public.pem -noout -text -pubin
+
+to generate the value of the modulus and exponent in the terminal.
+
+=== Sanity check ===
+Demonstrate that the integers you found in these two files work as you expect from an RSA key pair. For example, does e*d mod lambda(n) = 1?
+
+The key is 3072 bits, and p, q are shown to be 1536 bits long, which would make sense. The exponent is 65537, which matches in both the private key and public key files.
