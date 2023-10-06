@@ -1,0 +1,21 @@
+Crystal L
+
+1. Alice and Bob can use Diffie-Hellman to agree on a shared key K, which can be used to encrypt a message. Eve can't read the plain text unless she has K.
+
+2. Maybe can use SHA-256, where Alice sends hashed message of 256 bits. Bob can recompute the hash and compare it to the one Alice sent to see if they match; if they do, Mal hasn't modified the message.
+
+3. Public and secret key pairs, in which Alice can use S_A to encrypt a message, and Bob can decrypt with a public key, giving confidence the message is from Alice.
+
+4.
+- AITM in which Mal modifies the contract in the middle, modifying the encrypted message before Bob decrypt with P_A. It would be fairly plausible if encryption algorithm is malleable. 
+- Mal could intercept the message, encrypting it with a different key than K. This is also fairly plausible.
+- Alice's handwritten signature could be copied and pasted to forged contracts. It's plausible if attacker has her handwritten signature and encryption algorithm is malleable.
+- Honestly, Alice could be lying, but this isn't really plausible because it's an offense to lie in court.
+
+5. Sig_CA = E(S_CA, H(M)).
+
+6. Alice can send a message encrypted with P_B and then he can decrypt the message with S_B for the encrypted digital signature. He can decrypt that using P_A for the hash, which can be used to compare with encrypted hash from Alice.
+
+7.
+- With the trust of user key relying on the trust in the validity of the CA key, there is a risk of key compromise, increased by how browsers need to carry a large amount of certificate providers.
+- Mal could record a valid signed message, even with a digital signature scheme, and reuse it for malicious purpose.
