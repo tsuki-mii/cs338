@@ -1,0 +1,17 @@
+Crystal L
+
+== Thread Modeling Process ==
+Spoofing: There is possibility someone could eavesdrop an interaction in which someone inputs a username and password, and for example, using Basic Authentication would result in the username and password being accessible in plain text. Encrypting passwords using hashes, for example, may help.
+
+Tampering: If someone has access to the database server, they may make changes in the database (e.g. modifying description of tapirs so it's inappropriate). It's possible to delete users as well using stuff like the truncate command. It's important to be careful on who can access the database.
+
+Repudiation: It's often hard to trace transactions performed using a gift card as transaction is irreversible and it provides anonymity, as common in scams. As such, it may be a good idea to not take gift card money or have the user provide a receipt or concrete proof of purchasing the gift card.
+
+Information disclosure: Someone can read messages of another user if they (a) have access to the user's credentials or (b) the user accidentally leaves their computer open without logging off. As messages can contain information that shouldn't be accessible to others, it may be a good idea to implement a feature, for example, in which the system automatically logs a user off after some time.
+
+Denial of service: An attacker can target the web server, sending many packets and harming the traffic and slowing down network performance. This can be mitigated by utilizing rate limitation where an action can be performed a limited number of times in a timeframe by a single IP address.
+
+Elevation of privilege: If someone has access to a moderator or admin's account, they could have the ability to delete the site in the worst case or try and abuse other users. Authentication such as 2FA may be implemented to mitigate these types of attacks.
+
+== Data Flow Diagram ==
+https://i.postimg.cc/bNbPvMDB/IMG-0796.jpg
