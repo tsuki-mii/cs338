@@ -1,0 +1,50 @@
+Part 1
+Total time: 56.074 s
+Number of hashes computed: 2734
+Passwords cracked: 2734
+Time per hash computed: 0.02 s
+Time per password cracked: 0.02 s
+Passwords cracked per number of hashes computed: 1
+
+Part 2
+Total time: [user time from a "time" command]
+Number of hashes computed: [count of the # of hashes computed] 
+Passwords cracked: [number cracked]
+Time per hash computed: [seconds per hash]
+Time per password cracked: [seconds per password]
+Passwords cracked per number of hashes computed: [passwords per hash]
+
+Part 3
+Total time: 11.16 s
+Number of hashes computed: 13375750
+Passwords cracked: 50
+Time per hash computed: 8.343457376221894e-07 s
+Time per password cracked: 0.2232 s
+Passwords cracked per number of hashes computed: 0.0000037381
+
+Analysis:
+- Did your time per hash computed change between phases? By what factor? Why?
+ Yes, by a factor of around 23980.8153477 between phases 1 and 3. It should be 
+ slower in phase 2 because of the amount of possible passwords needed to check against
+ the hashes.
+
+- Did your time per password crack change between phases? By what factor? Why?
+ Yes, by a factor of 0.08960573476 from phase 1 to 3. In phase 3, it is required that in
+ each iteration the hashes be recomputed with different salts. This adds time in phase 3. It
+ would be slower in phase 2 because of the number of possible passwords when the amount of
+ passwords rise exponentially by concatenating two words together.
+
+- Suppose you wanted to precompute all the hashes for each possible password
+so you could just look up the password in a table indexed by the hash. How much
+memory would be required for each phase?
+ 32 bytes for hashes * 267516 (len of the word list in words.txt) = 8560512 bytes of
+ memory.
+
+- Give 3-4 reasons we should store password hashes and not the passwords themselves.
+Think in terms of threats, who the attackers might be, etc.
+ 1. Hashes are one-way, so it's hard to compute plain password from a hash
+ 2. To protect user privacy. In company settings, employees could have full access to 
+    databases that could store password information.
+ 3. It's still possible to compare any resulting hashes to original passwords in the 
+    future, while making it implausible or difficult to determine the original 
+    passwords. 
